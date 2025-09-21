@@ -4,6 +4,8 @@
 
 This code performs automated feature engineering by systematically combining input variables using mathematical operations to predict activation energy (Ea). It explores all possible combinations of three variables with two sequential mathematical operations to find the best predictive features. It can be modified to take combinations of two variables.
 
+The data (train.txt) used in this work is published here: **Meena R,** Purcell MJ, Kluijtmans W, Zuilhof H, Bitter JH, Ouyang R, et al. Activity Descriptors of Mo2C-based Catalysts for C-OH Bond Activation. ChemRxiv. 2025; doi:10.26434/chemrxiv-2025-pg52l
+
 ## Purpose
 
 The script aims to:
